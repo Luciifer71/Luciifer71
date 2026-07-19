@@ -1,7 +1,6 @@
 👋 Hi, I'm Krishay Shah
 
-Computer Science Engineering student passionate about
-
+CSE student passionate about
 • Artificial Intelligence
 
 • Drone Technology
@@ -10,4 +9,4 @@ Computer Science Engineering student passionate about
 
 • Entrepreneurship
 
-Currently building projects in AI and UAV systems while learning software engineering principles.
+Currently building projects in AI and UAV systems while learning Python and DSA.
