@@ -1,6 +1,7 @@
 👋 Hi, I'm Krishay Shah
 
 CSE student passionate about
+
 • Artificial Intelligence
 
 • Drone Technology
