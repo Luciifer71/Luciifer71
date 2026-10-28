@@ -13,7 +13,7 @@
 
 ### `~/documents`
 
-[`resume.pdf`](documents/resume.pdf) — selected experience and projects  
+[`resume.pdf`](documents/Resume.pdf) — selected experience and projects  
 [`curriculum-vitae.pdf`](documents/curriculum-vitae.pdf) — academic and research-oriented record
 
 ### `~/elsewhere`
