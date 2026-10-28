@@ -1,1 +1,11 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-label="Terminal-inspired header: Krishay Shah, somewhere between research and unreasonable ideas">
+<rect width="1200" height="310" fill="#0d1117"/>
+<rect x="1" y="1" width="1198" height="308" rx="10" fill="none" stroke="#30363d" stroke-width="2"/>
+<path d="M1 48H1199" stroke="#30363d"/>
+<circle cx="26" cy="25" r="5" fill="#484f58"/><circle cx="46" cy="25" r="5" fill="#484f58"/><circle cx="66" cy="25" r="5" fill="#484f58"/>
+<g font-family="monospace" fill="#8b949e" font-size="18"><text x="90" y="31">L71 / identity</text><text x="1110" y="31" text-anchor="end">README.md</text><text x="56" y="98">$ whoami</text></g>
+<text x="54" y="181" font-family="Arial, Helvetica, sans-serif" font-weight="600" font-size="64" letter-spacing="5" fill="#f0f6fc">KRISHAY SHAH<tspan fill="#8b949e">_</tspan></text>
+<text x="56" y="224" font-family="monospace" font-size="20" fill="#b1bac4">somewhere between research and unreasonable ideas.</text>
+<path d="M56 254H1144" stroke="#30363d"/>
+<text x="56" y="282" font-family="monospace" font-size="15" fill="#8b949e">AUTONOMOUS SYSTEMS  /  COMPUTER VISION  /  EMBEDDED ENGINEERING</text>
+</svg>
